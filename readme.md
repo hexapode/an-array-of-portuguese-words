@@ -1,8 +1,8 @@
 # an-array-of-portuguese-words
 
-An array of ~180,00 English words derived from internet. Works with node and browserify.
+An array of ~180,00 Portuguese words sort by popularity. I build the list from internet crawling. Works with node and browserify.
 
-Inspired / Fork from [an-array-of-english-words])https://github.com/zeke/an-array-of-english-words)
+Inspired / Fork from https://github.com/zeke/an-array-of-english-words
 
 ## Programmatic Usage
 
